@@ -1,0 +1,38 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.tablas {
+    display: flex;
+    flex-direction: column;
+}
+
+.body {
+    background-color: wheat;
+}
+
+.bienvenido {
+    background-color: tomato;
+    justify-content: center;
+    text-align: center;
+}
+
+.tablas {
+    background-color: wheat;
+    align-items: center;
+    height: 450px;
+}
+
+.titulo {
+    font-size: 30px;
+}
+
+.textoycelda {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    width: 30%;
+    justify-content: center;
+}
